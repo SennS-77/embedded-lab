@@ -6,8 +6,8 @@ Goal: Build a clean PlatformIO-based embedded systems lab for Arduino UNO experi
 
 - [x] PlatformIO project builds and runs
 - [x] Arduino UNO hello logging firmware
-- [ ] Serial monitoring workflow
-- [ ] GitHub repository setup
+- [x] Serial monitoring workflow
+- [x] GitHub repository setup
 - [ ] RS485 communication experiments
 - [ ] Relay-controlled power cycle tests
 - [ ] Python automation and regression tests
